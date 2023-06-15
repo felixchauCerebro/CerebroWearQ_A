@@ -1,4 +1,4 @@
-# Cerebro Wear Problem and Solution
+# Cerebro Wear -- Problem and Solution
 
 ## 注意事項⚠️
 請確保Cerebro Wear的版本在**3.0.8**或以上.
