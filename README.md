@@ -23,3 +23,6 @@
   - 先按一下power鍵退出app，然後向左掃一下，打開Browser，嘗試一下打開Google頁面
   - 如成功看到Googlo的Logo便可以返回ibeaconfunction2按retry，大約10秒內便會成功出現**同意**的按鈕
   - 如看到Webpage not available
+
+### 按retry沒有反應
+  - 可以先向下滑動到 **System Setting** 下面的 **Network State**，如果顯示**CELLULAR**/**WIFI**可以進行下一步
